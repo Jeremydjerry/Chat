@@ -8,7 +8,7 @@ from socket import *
 # Configurações de conexão do servidor
 # o nome do servidor pode ser o endereço de IP ou domínio (ola.python.net)
 serverHost = 'localhost'
-serverPort = 17311
+serverPort = 59421
 
 # Mensagem a ser mandada codificada em bytes
 
